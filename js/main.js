@@ -40,9 +40,7 @@ require([
         currPeriodStr: null,
         cursorMultiplier: null,
 
-        function justFuckingCheat() {
-            bank += 1000000;
-        }
+  
         
         units: [{
             name: 'Water clock',
