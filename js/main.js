@@ -49,6 +49,12 @@ require([
             displayAt: 0,
             basePrice: 64
         },{
+            name: 'Water Clock v2',
+            description: "A whole row of water clocks! (+1 line/s)",
+            cps: 504,
+            displayAt: 500,
+            basePrice: 1000
+        },{
             name: 'Hamster wheel',
             description: "Hamsters never get tired, as we all know. (+8/s)",
             cps: 8,
