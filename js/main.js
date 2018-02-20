@@ -39,6 +39,10 @@ require([
         step_prev: null,
         currPeriodStr: null,
         cursorMultiplier: null,
+        
+        function addPixels(amount) {
+            bank += amount;
+        }
 
   
         
