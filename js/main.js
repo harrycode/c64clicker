@@ -102,7 +102,6 @@ require([
             cps: 39312,
             displayAt: 420,
             basePrice: 1342177280
-        },{
         }],
 
         upgrades: [{
