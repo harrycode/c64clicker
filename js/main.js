@@ -49,6 +49,7 @@ require([
             displayAt: 0,
             basePrice: 64
         },{
+            // New!
             name: 'Water Clock v2',
             description: "A whole row of water clocks! (+1 line/s)",
             cps: 504,
@@ -103,6 +104,7 @@ require([
             displayAt: 67108864,
             basePrice: 134217728
         },{
+            // New!
             name: 'Diamond Crystal',
             description: "So shiny! :D (+10 frames/s)",
             cps: 39312,
